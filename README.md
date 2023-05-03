@@ -30,7 +30,7 @@ The dataset for this project includes the following variables:
 ## - `Notebooks` 📓
 This directory contains Jupyter notebooks used for data exploration, preprocessing, feature engineering, model building, and evaluation. Each notebook covers a specific stage in the data science workflow and includes detailed explanations of the code and results.
 
-## - `Models`
+## - `Models` 🧠
 This directory contains trained machine learning models for predicting salaries based on different algorithms such as linear regression, decision trees, and random forests. The models are saved in serialized format and can be loaded for deployment in a production environment.
 
 ## - `Scripts` 📝
