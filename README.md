@@ -1,6 +1,11 @@
 [resource link]: https://www.kaggle.com/datasets/arnabchaki/data-science-salaries-2023
 # Data Science Salary Estimator 💰
 
+## - `Tools` 🔨
+- [x] Power Bi
+- [x] Python
+- [x] Power Automate
+
 This repository contains code and data for a data science salary estimator project. The project aims to predict the salary of data scientists based on various factors such as work experience, employment type, job title, and company size. 
 
 The project consists of the following components:
