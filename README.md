@@ -1,3 +1,4 @@
+[resource link]: https://www.kaggle.com/datasets/arnabchaki/data-science-salaries-2023
 # Data Science Salary Estimator
 
 This repository contains code and data for a data science salary estimator project. The project aims to predict the salary of data scientists based on various factors such as work experience, employment type, job title, and company size. 
@@ -5,7 +6,7 @@ This repository contains code and data for a data science salary estimator proje
 The project consists of the following components:
 
 ## - `data` 
-This directory contains the dataset used for training and testing the models. The dataset is sourced from various job boards and includes features such as work experience, job title, salary, and company size.
+This directory contains the dataset used for training and testing the models. The dataset is sourced from various job boards and includes features such as work experience, job title, salary, and company size. Here's the [resource link] for you to download some other code examples.
 
 The dataset for this project includes the following variables:
 
